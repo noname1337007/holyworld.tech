@@ -1,0 +1,104 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css
+File Name: C:\Users\user\Documents\Урок\sait\holyworld.io\ajax\libs\animate.css\4.1.1\animate.min.css
+Content Type: text/css
+
+Uri: https://holyworld.io/order/eyJwbGF5ZXIiOiJ4RGVhdGhGb3JDcnl4Iiwib3JkZXJpZCI6IjZzOTNlcWxxNW1tIn0
+File Name: C:\Users\user\Documents\Урок\sait\holyworld.io\order\eyJwbGF5ZXIiOiJ4RGVhdGhGb3JDcnl4Iiwib3JkZXJpZCI6IjZzOTNlcWxxNW1tIn0.html
+Content Type: text/html
+
+Uri: https://holyworld.io/source/css/app.css?id=0f9ec33df80df5b1245382b7a6e855de
+File Name: C:\Users\user\Documents\Урок\sait\holyworld.io\source\css\app.css
+Content Type: text/css
+
+Uri: https://holyworld.io/source/img/favicon.png
+File Name: C:\Users\user\Documents\Урок\sait\holyworld.io\source\img\favicon.png
+Content Type: image/png
+
+Uri: https://holyworld.io/source/js/app.js?id=d7ec5dac1c51ab504e7e0d4e8ea2e001
+File Name: C:\Users\user\Documents\Урок\sait\holyworld.io\source\js\app.js
+Content Type: application/javascript
+
+Uri: https://holyworld.io/source/js/manifest.js?id=aa7026703c0277973ef772637e209153
+File Name: C:\Users\user\Documents\Урок\sait\holyworld.io\source\js\manifest.js
+Content Type: application/javascript
+
+Uri: https://holyworld.io/source/js/vendor.js?id=47c2bd390476dfe1404f1214f33309ab
+File Name: C:\Users\user\Documents\Урок\sait\holyworld.io\source\js\vendor.js
+Content Type: application/javascript
+
+Uri: https://maxst.icons8.com/vue-static/landings/line-awesome/font-awesome-line-awesome/css/all.min.css
+File Name: C:\Users\user\Documents\Урок\sait\holyworld.io\vue-static\landings\line-awesome\font-awesome-line-awesome\css\all.min.css
+Content Type: text/css
+
+Uri: https://maxst.icons8.com/vue-static/landings/line-awesome/font-awesome-line-awesome/webfonts/fa-brands-400.eot
+File Name: C:\Users\user\Documents\Урок\sait\holyworld.io\vue-static\landings\line-awesome\font-awesome-line-awesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxst.icons8.com/vue-static/landings/line-awesome/font-awesome-line-awesome/webfonts/fa-brands-400.eot?
+File Name: C:\Users\user\Documents\Урок\sait\holyworld.io\vue-static\landings\line-awesome\font-awesome-line-awesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxst.icons8.com/vue-static/landings/line-awesome/font-awesome-line-awesome/webfonts/fa-brands-400.svg
+File Name: C:\Users\user\Documents\Урок\sait\holyworld.io\vue-static\landings\line-awesome\font-awesome-line-awesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://maxst.icons8.com/vue-static/landings/line-awesome/font-awesome-line-awesome/webfonts/fa-brands-400.ttf
+File Name: C:\Users\user\Documents\Урок\sait\holyworld.io\vue-static\landings\line-awesome\font-awesome-line-awesome\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://maxst.icons8.com/vue-static/landings/line-awesome/font-awesome-line-awesome/webfonts/fa-brands-400.woff
+File Name: C:\Users\user\Documents\Урок\sait\holyworld.io\vue-static\landings\line-awesome\font-awesome-line-awesome\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://maxst.icons8.com/vue-static/landings/line-awesome/font-awesome-line-awesome/webfonts/fa-brands-400.woff2
+File Name: C:\Users\user\Documents\Урок\sait\holyworld.io\vue-static\landings\line-awesome\font-awesome-line-awesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://maxst.icons8.com/vue-static/landings/line-awesome/font-awesome-line-awesome/webfonts/fa-regular-400.eot
+File Name: C:\Users\user\Documents\Урок\sait\holyworld.io\vue-static\landings\line-awesome\font-awesome-line-awesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxst.icons8.com/vue-static/landings/line-awesome/font-awesome-line-awesome/webfonts/fa-regular-400.eot?
+File Name: C:\Users\user\Documents\Урок\sait\holyworld.io\vue-static\landings\line-awesome\font-awesome-line-awesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxst.icons8.com/vue-static/landings/line-awesome/font-awesome-line-awesome/webfonts/fa-regular-400.svg
+File Name: C:\Users\user\Documents\Урок\sait\holyworld.io\vue-static\landings\line-awesome\font-awesome-line-awesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://maxst.icons8.com/vue-static/landings/line-awesome/font-awesome-line-awesome/webfonts/fa-regular-400.ttf
+File Name: C:\Users\user\Documents\Урок\sait\holyworld.io\vue-static\landings\line-awesome\font-awesome-line-awesome\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://maxst.icons8.com/vue-static/landings/line-awesome/font-awesome-line-awesome/webfonts/fa-regular-400.woff
+File Name: C:\Users\user\Documents\Урок\sait\holyworld.io\vue-static\landings\line-awesome\font-awesome-line-awesome\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://maxst.icons8.com/vue-static/landings/line-awesome/font-awesome-line-awesome/webfonts/fa-regular-400.woff2
+File Name: C:\Users\user\Documents\Урок\sait\holyworld.io\vue-static\landings\line-awesome\font-awesome-line-awesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://maxst.icons8.com/vue-static/landings/line-awesome/font-awesome-line-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Users\user\Documents\Урок\sait\holyworld.io\vue-static\landings\line-awesome\font-awesome-line-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxst.icons8.com/vue-static/landings/line-awesome/font-awesome-line-awesome/webfonts/fa-solid-900.eot?
+File Name: C:\Users\user\Documents\Урок\sait\holyworld.io\vue-static\landings\line-awesome\font-awesome-line-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxst.icons8.com/vue-static/landings/line-awesome/font-awesome-line-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Users\user\Documents\Урок\sait\holyworld.io\vue-static\landings\line-awesome\font-awesome-line-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://maxst.icons8.com/vue-static/landings/line-awesome/font-awesome-line-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Users\user\Documents\Урок\sait\holyworld.io\vue-static\landings\line-awesome\font-awesome-line-awesome\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://maxst.icons8.com/vue-static/landings/line-awesome/font-awesome-line-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Users\user\Documents\Урок\sait\holyworld.io\vue-static\landings\line-awesome\font-awesome-line-awesome\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://maxst.icons8.com/vue-static/landings/line-awesome/font-awesome-line-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Users\user\Documents\Урок\sait\holyworld.io\vue-static\landings\line-awesome\font-awesome-line-awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
