@@ -1,2 +1,1 @@
 # holyworld.tech
-scaming shit
